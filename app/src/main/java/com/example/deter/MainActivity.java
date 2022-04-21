@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
+    //debut de l'ajout de l'interface graphique
 
     //un commentaire
     @Override
