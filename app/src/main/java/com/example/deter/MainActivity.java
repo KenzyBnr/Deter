@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
     //debut de l'ajout de l'interface graphique
-
+²
     //un commentaire
     @Override
     protected void onCreate(Bundle savedInstanceState) {
